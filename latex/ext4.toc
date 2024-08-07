@@ -1,0 +1,11 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}{}%
+\contentsline {section}{\numberline {1.1}L'évolution des systèmes de fichiers ext}{2}{}%
+\contentsline {section}{\numberline {1.2}Principales améliorations d'ext4 par rapport à ses prédécesseurs}{2}{}%
+\contentsline {chapter}{\numberline {2}Architecture}{4}{}%
+\contentsline {section}{\numberline {2.1}La structure }{4}{}%
+\contentsline {section}{\numberline {2.2}Groupes de blocs}{5}{}%
+\contentsline {subsection}{\numberline {2.2.1}Superbloc}{5}{}%
+\contentsline {subsection}{\numberline {2.2.2}Descripteur de groupe de blocs}{9}{}%
+\contentsline {subsection}{\numberline {2.2.3}Table d’inodes}{10}{}%
+\contentsline {chapter}{\numberline {3}Les fonctionnalités d'ext4}{13}{}%
+\contentsline {section}{\numberline {3.1}Extents}{13}{}%

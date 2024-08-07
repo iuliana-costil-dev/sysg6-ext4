@@ -1,0 +1,53 @@
+#!/bin/bash
+#NOM    : Demo
+#OBJET  : réservé au makefile
+#AUTEUR	: Costil Iuiana 03/2023
+clear
+C='\033[44m'
+E='\033[32m\033[1m'
+W='\033[31m\033[1m'
+N='\033[0m'
+clear
+echo "Démonstration du dumpe2fs -h, pour montrer les informations d'une partition formatté en ext4"
+echo "----------------------------------------"
+echo
+if [ $(id -u) -ne 0 ] # si pas administrateur
+then 
+	echo "Vous devez être administrateur pour lire un tel périphérique"
+	echo
+	echo -e "${C}             --> Enter pour continuer${N}"
+	read
+	exit 0
+fi
+
+echo "Insérez la clé USB"
+echo
+echo -e "${C}             --> Enter pour continuer${N}"
+read
+sleep 1
+echo -e "${E}résultat de dmesg${N}"
+echo
+dmesg | tail
+echo
+echo -e "${E}résultat de lsblk${N}"
+echo
+lsblk
+echo
+echo -n -e "${E}Entrez le nom du partition à lire (exemple /dev/sdjx,...): ${N}"
+read partition
+echo
+echo
+echo -e "${E}résultat de dumpe2fs -h$partition ${N}"
+echo
+dumpe2fs -h $partition
+echo
+echo
+echo -e "${C}             --> Enter pour continuer${N}"
+read
+echo -e "${E}résultat de LectSuperBlock $partition ${N}"
+echo
+./LectSuperBlock $partition
+echo
+echo -e "${C}             --> Enter pour continuer${N}"
+read
+

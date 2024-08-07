@@ -1,0 +1,415 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.20)  17 APR 2023 02:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ext4.tex
+(ext4.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-02>
+(D:\Program files\New folder\tex/latex/base\report.cls
+Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
+(D:\Program files\New folder\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(D:\Program files\New folder\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\Program files\New folder\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(D:\Program files\New folder\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\Program files\New folder\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(D:\Program files\New folder\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(D:\Program files\New folder\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(D:\Program files\New folder\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen143
+\WF@size=\dimen144
+\c@WF@wrappedlines=\count194
+\WF@box=\box51
+\WF@everypar=\toks17
+Package: wrapfig 2003/01/31  v 3.6
+)
+(D:\Program files\New folder\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen145
+\enit@toks=\toks18
+\enit@inbox=\box52
+\enit@count@id=\count195
+\enitdp@description=\count196
+)
+(D:\Program files\New folder\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen146
+\ttl@minus=\dimen147
+\ttl@toksa=\toks19
+\titlewidth=\dimen148
+\titlewidthlast=\dimen149
+\titlewidthfirst=\dimen150
+)
+(D:\Program files\New folder\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(D:\Program files\New folder\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(D:\Program files\New folder\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(D:\Program files\New folder\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2022/11/13 v3.2 ragged2e Package
+\CenteringLeftskip=\skip53
+\RaggedLeftLeftskip=\skip54
+\RaggedRightLeftskip=\skip55
+\CenteringRightskip=\skip56
+\RaggedLeftRightskip=\skip57
+\RaggedRightRightskip=\skip58
+\CenteringParfillskip=\skip59
+\RaggedLeftParfillskip=\skip60
+\RaggedRightParfillskip=\skip61
+\JustifyingParfillskip=\skip62
+\CenteringParindent=\skip63
+\RaggedLeftParindent=\skip64
+\RaggedRightParindent=\skip65
+\JustifyingParindent=\skip66
+)
+(D:\Program files\New folder\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(D:\Program files\New folder\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(D:\Program files\New folder\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(D:\Program files\New folder\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks20
+
+(D:\Program files\New folder\tex/latex/geometry\geometry.cfg))
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+9.
+
+(D:\Program files\New folder\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(D:\Program files\New folder\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box54
+)
+(ext4.aux)
+\openout1 = `ext4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+ (D:\Program files\New folder\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen159
+\scratchbox=\box55
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen160
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks22
+) (D:\Program files\New folder\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(D:\Program files\New folder\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(90.3375pt, 433.62001pt, 90.3375pt)
+* v-part:(T,H,B)=(50.58878pt, 672.11122pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=672.11122pt
+* \oddsidemargin=18.0675pt
+* \evensidemargin=18.0675pt
+* \topmargin=-58.68121pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<images//he2b.png, id=1, 252.945pt x 200.75pt>
+File: images//he2b.png Graphic file (type png)
+<use images//he2b.png>
+Package pdftex.def Info: images//he2b.png  used on input line 27.
+(pdftex.def)             Requested size: 113.81102pt x 90.32747pt.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+7.
+(D:\Program files\New folder\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+27.
+
+(D:\Program files\New folder\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+27.
+
+(D:\Program files\New folder\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 27.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 27.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 27.
+ [1
+
+{C:/Users/HP/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images//he2b.
+png>] (ext4.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `ext4.toc'.
+
+
+[1
+
+]
+Chapter 1.
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
+36.
+(D:\Program files\New folder\tex/latex/lm\ot1lmss.fd
+File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [2
+
+] [3]
+Chapter 2.
+<images//structure.jpg, id=20, 963.6pt x 367.3725pt>
+File: images//structure.jpg Graphic file (type jpg)
+<use images//structure.jpg>
+Package pdftex.def Info: images//structure.jpg  used on input line 65.
+(pdftex.def)             Requested size: 433.62001pt x 165.31609pt.
+[4
+
+ <./images//structure.jpg>]
+<images//superbloc.png, id=24, 531.294pt x 641.013pt>
+File: images//superbloc.png Graphic file (type png)
+<use images//superbloc.png>
+Package pdftex.def Info: images//superbloc.png  used on input line 87.
+(pdftex.def)             Requested size: 433.62001pt x 523.17902pt.
+ [5 <./images//superbloc.png>]
+<images//mount.png, id=29, 663.98062pt x 581.17125pt>
+File: images//mount.png Graphic file (type png)
+<use images//mount.png>
+Package pdftex.def Info: images//mount.png  used on input line 93.
+(pdftex.def)             Requested size: 433.62001pt x 379.53929pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 9
+8.
+(D:\Program files\New folder\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [6 <./images//mount.png>]
+<images//dumpsuperbloc.png, id=37, 473.51906pt x 584.1825pt>
+File: images//dumpsuperbloc.png Graphic file (type png)
+<use images//dumpsuperbloc.png>
+Package pdftex.def Info: images//dumpsuperbloc.png  used on input line 108.
+(pdftex.def)             Requested size: 433.62001pt x 534.97635pt.
+
+[7 <./images//dumpsuperbloc.png>]
+<images//blockdesc.png, id=42, 523.848pt x 941.481pt>
+File: images//blockdesc.png Graphic file (type png)
+<use images//blockdesc.png>
+Package pdftex.def Info: images//blockdesc.png  used on input line 122.
+(pdftex.def)             Requested size: 433.62001pt x 779.31728pt.
+ [8]
+Overfull \vbox (133.95605pt too high) has occurred while \output is active []
+
+
+[9 <./images//blockdesc.png>]
+<images//inode.png, id=50, 501.291pt x 916.734pt>
+File: images//inode.png Graphic file (type png)
+<use images//inode.png>
+Package pdftex.def Info: images//inode.png  used on input line 132.
+(pdftex.def)             Requested size: 433.62001pt x 792.99199pt.
+ [10]
+Overfull \vbox (120.88077pt too high) has occurred while \output is active []
+
+
+[11 <./images//inode.png>]
+<images//inode_flags.png, id=58, 524.505pt x 603.126pt>
+File: images//inode_flags.png Graphic file (type png)
+<use images//inode_flags.png>
+Package pdftex.def Info: images//inode_flags.png  used on input line 138.
+(pdftex.def)             Requested size: 433.62001pt x 498.61583pt.
+ [12 <./images//inode_flags.png>]
+Chapter 3.
+
+Overfull \hbox (16.07655pt too wide) in paragraph at lines 141--146
+\OT1/lmr/m/n/12 sid^^Serablement les per-for-mances en r^^Seduisant le nom-bre 
+de recherches de disque n^^Secessaires
+ []
+
+[13
+
+]
+<images//creux.png, id=68, 615.80063pt x 389.20406pt>
+File: images//creux.png Graphic file (type png)
+<use images//creux.png>
+Package pdftex.def Info: images//creux.png  used on input line 153.
+(pdftex.def)             Requested size: 433.62001pt x 274.0682pt.
+<images//blockread.png, id=69, 528.7755pt x 406.51875pt>
+File: images//blockread.png Graphic file (type png)
+<use images//blockread.png>
+Package pdftex.def Info: images//blockread.png  used on input line 159.
+(pdftex.def)             Requested size: 433.62001pt x 333.37854pt.
+ [14 <./images//creux.png> <./images//blockread.png>] [15] (ext4.aux) ) 
+Here is how much of TeX's memory you used:
+ 3510 strings out of 476374
+ 56899 string characters out of 5796802
+ 1861340 words of memory out of 5000000
+ 23858 multiletter control sequences out of 15000+600000
+ 567856 words of font info for 64 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,62p,1024b,271s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{D:/Prog
+ram files/New folder/fonts/enc/dvips/lm/lm-rm.enc}{D:/Program files/New folder/
+fonts/enc/dvips/lm/lm-ts1.enc}<D:/Program files/New folder/fonts/type1/public/l
+m/lmbx12.pfb><D:/Program files/New folder/fonts/type1/public/lm/lmr12.pfb><D:/P
+rogram files/New folder/fonts/type1/public/lm/lmri12.pfb><D:/Program files/New 
+folder/fonts/type1/public/lm/lmss17.pfb><D:/Program files/New folder/fonts/type
+1/public/lm/lmssbx10.pfb>
+Output written on ext4.pdf (16 pages, 2569669 bytes).
+PDF statistics:
+ 104 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
